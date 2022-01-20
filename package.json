@@ -1,0 +1,8 @@
+{
+  "name": "cra-template-tailwindcss-react",
+  "version": "1.0.0",
+  "description": "A custom Create-react-app template that wraps TailwindCSS and PostCSS",
+  "keywords": ["react", "create-react-app", "tailwindcss", "postcss", "template"],
+  "author": "tgashwinkumar",
+  "license": "MIT"
+}
